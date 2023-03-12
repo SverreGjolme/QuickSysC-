@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678632008 source:d:\plan for fremtiden\coding\c++\lotto\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
